@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my official GitHub page!
+**Welcome to my official GitHub page!**
 
 Here, you'll find an exciting collection of projects and repositories showcasing my skills, creativity, and passion for coding.
 
