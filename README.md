@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my official GitHub page!
+
+Here, you'll find an exciting collection of projects and repositories showcasing my skills, creativity, and passion for coding.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing innovative projects that merge technology and comedy.
@@ -11,9 +15,6 @@ Here are some ideas to get you started:
 - 📫 You can reach me through the contact information provided in my profile. I'd love to connect and exchange ideas!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I firmly believe that laughter is the best debugging tool in a programmer's arsenal.
-
-# My Official GitHub Page
-Welcome to my official GitHub page! Here, you'll find an exciting collection of projects and repositories showcasing my skills, creativity, and passion for coding.
 
 ## About Me
 I'm Malfunctionify, a skilled programmer and YouTuber with a deep love for technology and a passion for bringing humor into the world of coding.
