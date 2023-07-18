@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that combine humor and technology, creating unique and entertaining experiences.
 - 🤔 I’m open to receiving help and feedback from fellow developers to enhance my projects and improve my coding techniques.
 - 💬 Ask me about my journey as a programmer, my favorite coding languages, or how I infuse humor into my projects.
-- 📺 I'm a YouTuber dedicated to bringing the comedy in technology to everyone. [Check out my channel](https://www.youtube.com/@Malfunctionify) for hilarious and informative content!
+- 📺 I'm a YouTuber dedicated to bringing the comedy in technology to everyone.
+      [Check out my channel](https://www.youtube.com/@Malfunctionify) for hilarious and informative content!
 - 📫 You can reach me through the contact information provided in my profile. I'd love to connect and exchange ideas!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I firmly believe that laughter is the best debugging tool in a programmer's arsenal.
